@@ -1,6 +1,0 @@
-public class helloWrold{
-		public static void main (String[] args){
-		System.Out.Println("第一次提交")
-		System.Out.Println("第一次修改");
-		}
-}
